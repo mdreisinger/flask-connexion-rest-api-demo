@@ -8,7 +8,7 @@ Part 3: https://realpython.com/flask-connexion-rest-api-part-3/
 3.11.2
 
 # Pyenv / Poetry
-https://www.rootstrap.com/blog/how-to-manage-your-python-projects-with-pipenv-pyenv
+https://realpython.com/intro-to-pyenv/
 https://python-poetry.org/docs/basic-usage/
 
 # Commands
@@ -16,6 +16,3 @@ https://python-poetry.org/docs/basic-usage/
 
 # API Documentation
 localhost:8000/api/ui
-
-# TODO:
-Make pre-commit pylint work!!
