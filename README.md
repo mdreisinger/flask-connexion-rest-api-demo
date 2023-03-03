@@ -1,8 +1,7 @@
 # flask-connexion-rest-api-demo
-Part 1: https://realpython.com/flask-connexion-rest-api/#demo
-Part 2: https://realpython.com/flask-connexion-rest-api-part-2/
-Part 3: https://realpython.com/flask-connexion-rest-api-part-3/
-
+- Part 1: https://realpython.com/flask-connexion-rest-api/#demo
+- Part 2: https://realpython.com/flask-connexion-rest-api-part-2/
+- Part 3: https://realpython.com/flask-connexion-rest-api-part-3/
 
 # Python Version
 3.11.2
@@ -12,7 +11,11 @@ https://realpython.com/intro-to-pyenv/
 https://python-poetry.org/docs/basic-usage/
 
 # Commands
+## Run Locally
 `poetry run python app.py`
+
+## Run in Docker
+`docker-compose up -d`
 
 # API Documentation
 localhost:8000/api/ui
